@@ -84,3 +84,8 @@ a:hover {
     width: 95%;
   }
 }
+
+.smallerSubHeader {
+  color: black;
+  font-size:18px;
+}
